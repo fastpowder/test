@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "Untitled 4.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "Untitled 4.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "Untitled 4.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.canvas"
+                "file": "Untitled 4.canvas"
               }
             }
           }
@@ -163,10 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c111a68cb91f72d",
+  "active": "ecdca6c01700cc28",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
+    "trfrfrfrfr",
+    "Untitled 3.canvas",
+    "Untitled 4.canvas",
     "Untitled 2.canvas",
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "2024-02-28.md",
     "Welcome.md"
